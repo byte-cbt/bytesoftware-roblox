@@ -38,3 +38,10 @@ loadstring(game:HttpGet("https://bytesoftware.net/roblox/flygui/loader.lua", tru
 ```lua
 loadstring(game:HttpGet("https://bytesoftware.net/roblox/antiafk/loader.lua", true))()
 ```
+
+***Byt3c0de • 18/11/2025***
+
+
+<p align="center">
+  <img src="https://bytesoftware.net/images/bs_banner_rounded.png" alt="Byte Software Banner">
+</p>
