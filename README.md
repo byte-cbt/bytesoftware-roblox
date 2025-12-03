@@ -67,5 +67,5 @@ I hope my work inspires creativity and helps you on your own development journey
 
 
 <p align="center">
-  <img src="https://bytesoftware.net/images/bs_banner_rounded.png" alt="Byte Software Banner">
+  <img src="https://bytesoftware.net/images/banner_rounded.jpg" alt="Byte Software Banner">
 </p>
